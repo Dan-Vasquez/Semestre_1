@@ -1,2 +1,3 @@
 # Semestre_1
-Proyectos y actividades de la Universidad #1
+
+Actividades y parcial final del curso de Herramientas Computacionales, inicio de programacion con Python.
